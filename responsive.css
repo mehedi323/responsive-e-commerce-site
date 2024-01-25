@@ -47,4 +47,16 @@
         grid-template-columns: repeat(1, 1fr);
     }
 
+    /* product section ends */
+
+    .discount-container{  
+        flex-direction: column;
+       }
+
+    .discount-img-container  {
+        width: 100%;
+        flex-direction: column;
+          
+    }  
+
 }
