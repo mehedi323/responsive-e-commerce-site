@@ -11,6 +11,19 @@
     }
     .logo{
         width: 100%;
-       }
+    }
+
+    /* navbar end */
+
+    .banner-container{  
+        flex-direction: column;
+    }
+      .banner-text{
+        width: 100%;
+    }
+    .banner-img {
+        width: 100%; 
+    }
+
 
 }
